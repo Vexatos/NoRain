@@ -1,7 +1,7 @@
 BevoPack
 ========
 
-This is a Repository for a Resourcepack called NoRain. All it does is removing the noise and texture of Rain in Minecraft.
+This is a Repository for a Resourcepack called NoRain. All it does is removing the noise and texture of rain in Minecraft.
 
 It is entirely made for fun, and nothing else.
 
