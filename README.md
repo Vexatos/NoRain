@@ -1,4 +1,4 @@
-BevoPack
+NoRain
 ========
 
 This is a Repository for a Resourcepack called NoRain. All it does is removing the noise and texture of rain in Minecraft.
