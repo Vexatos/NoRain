@@ -1,22 +1,10 @@
-*.class
+/*
 
-# Package Files #
-*.war
-*.ear
+# folders
+!/NoRain
+!/NoSwirls
 
-# To ignore misc files #
-build.properties
-build/
-packs/
-packs_lang_only/
-downloads/
-misc/
-Apocowlypse/
-
-# Windows Stuff #
-Thumbs.db
-.DS_Store
-
-build.bat
-clean.bat
-/bin
+# files
+!/.gitignore
+!/README.md
+!/LICENSE.md
